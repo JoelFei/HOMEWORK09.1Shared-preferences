@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Aug 06 09:49:39 SGT 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Asus\\Desktop\\DIB2 sem 1\\Mobile application practical\\Shared preferences\\Scorekeeper\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
